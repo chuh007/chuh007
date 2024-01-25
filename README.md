@@ -1,7 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=chuh_World&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=welcome&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchuh007&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23F07C7C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # 환장의 똥꼬소
 ### 뭔가 보여드리겠읍니다
+
 
 <!--
 **chuh007/chuh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
