@@ -1,5 +1,7 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=Gondr_World&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=chuh_World&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+#환장의 똥꼬쇼
+##뭔가 보여드리겠읍니다
 
 <!--
 **chuh007/chuh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
