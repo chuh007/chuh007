@@ -4,8 +4,8 @@
 
 # 환장의 똥꼬소
 ### 뭔가 보여드리겠읍니다
-
-
+노력하는 범재 아트 빼고 다 합니다
+![chuh007's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
 <!--
 **chuh007/chuh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
