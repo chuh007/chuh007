@@ -5,7 +5,7 @@
 # 환장의 똥꼬소
 ### 뭔가 보여드리겠읍니다
 노력하는 범재 아트 빼고 다 합니다
-#이메일: chhuh007@gmail.com
+# 이메일: chhuh007@gmail.com
 <!--
 **chuh007/chuh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
