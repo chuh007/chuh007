@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0000FF&height=200&section=header&text=welcome&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
-![image](https://github.com/chuh007/chuh007/assets/157554679/b89445f0-4128-4d1b-95f5-b85082faa998)![chuh007's github stats](https://github-readme-stats.vercel.app/api?username=chuh007&show_icons=true)
+![chuh007's github stats](https://github-readme-stats.vercel.app/api?username=chuh007&show_icons=true)
 
 
 # 이메일: chhuh007@gmail.com
